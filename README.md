@@ -6,6 +6,7 @@
 The data for this project can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+## run_analysis.R
 ### Process
 1. Set the wd
 
