@@ -1,22 +1,22 @@
 # gettingandcleaningdata
-Coursera Getting And Cleaning Data Course
+# Coursera Getting And Cleaning Data Course
 
 ## Course Project
 
 ### Variables
 
-Subject
-Activity
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z
-tBodyAcc-std()-X
-tBodyAcc-std()-Y
-tBodyAcc-std()-Z
-tGravityAcc-mean()-X
-tGravityAcc-mean()-Y
-tGravityAcc-mean()-Z
-tGravityAcc-std()-X
+- Subject
+- Activity
+- tBodyAcc-mean()-X
+- tBodyAcc-mean()-Y
+- tBodyAcc-mean()-Z
+- tBodyAcc-std()-X
+- tBodyAcc-std()-Y
+- tBodyAcc-std()-Z
+- tGravityAcc-mean()-X
+- tGravityAcc-mean()-Y
+- tGravityAcc-mean()-Z
+- tGravityAcc-std()-X
 tGravityAcc-std()-Y
 tGravityAcc-std()-Z
 tBodyAccJerk-mean()-X
