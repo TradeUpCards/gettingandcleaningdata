@@ -2,11 +2,27 @@
 # Coursera Getting And Cleaning Data Course
 
 ## Course Project
+### Data
+The data for this project can be found here:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ### Variables
+The following list are the measurements taken.  Values shown are the means of the variable name for each Subject + Activity grouping.
+E.g. tBodyAcc-mean()-x will be the mean of tBodyAcc-mean()-x and tBodyAcc-std()-X will be the mean of tBodyAcc-std()-X
 
-1. Subject
-1. Activity
+1. Subject - integer
+
+		The experiment subjects, 1-30
+1. Activity - factor 
+
+		The activity being tested
+		1. WALKING
+		2. WALKING_UPSTAIRS
+		3. WALKING_DOWNSTAIRS
+		4. SITTING
+		5. STANDING
+		6. LAYING
+
 1. tBodyAcc-mean()-X
 1. tBodyAcc-mean()-Y
 1. tBodyAcc-mean()-Z
